@@ -1,4 +1,4 @@
-Walkthrough Avaoilable on Youtube:
+Walkthrough Available On Youtube:
 
 https://www.youtube.com/watch?v=QjepshGRuvE
 
