@@ -1,6 +1,6 @@
 Walkthrough Available On Youtube:
 
-https://www.youtube.com/watch?v=QjepshGRuvE
+COMMING SOON
 
 1) cd into the directory containing the scripts
 
